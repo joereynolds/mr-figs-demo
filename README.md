@@ -1,8 +1,10 @@
 # mr-figs-demo
 
-This repository is the central hub for all issues related to the demo of Mr Figs (not yet released).
+This repository is the central hub for all issues related to the [demo of Mr Figs](https://thegoodgamefactory.itch.io/mr-figs) (not yet released).
 
 ## Links
+
+[Play the demo here](https://thegoodgamefactory.itch.io/mr-figs) (not yet released)
 
 [Mr Figs on Steam](https://store.steampowered.com/app/3122220/Mr_Figs)
 
